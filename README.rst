@@ -1,7 +1,7 @@
 Overview
 ========
 
-A sample program I wrote to detect gibberish.  It uses a 2 character markov chain.
+A sample program to detect gibberish.  It uses a 2 character markov chain.
 
 http://en.wikipedia.org/wiki/Markov_chain
 
